@@ -1,2 +1,2 @@
 # Database-Design
-AddressBook Application using Java-fx
+The repo contains Database Design related projects
